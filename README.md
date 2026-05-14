@@ -1,5 +1,9 @@
 # 🌃 Automated Street Light Monitoring & Energy Saving System
 
+<p align="center">
+  <img src="assets/banner.png" alt="Automated Street Light Monitoring and Energy Saving System Banner" width="100%">
+</p>
+
 <div align="center">
 
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif)
@@ -157,7 +161,7 @@ ESP32 GND     ──────────── Common Ground
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Automated-Street-Light-Monitoring-And-Energy-Saving-System.git
+git clone https://github.com/krss-94/Automated-Street-Light-Monitoring-And-Energy-Saving-System.git
 cd Automated-Street-Light-Monitoring-And-Energy-Saving-System
 ```
 
